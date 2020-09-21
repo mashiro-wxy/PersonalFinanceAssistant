@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/new_manage"
+        android:icon="@drawable/ic_menu_add"
+        android:title="@string/new_manage"
+        app:showAsAction="ifRoom|withText" />
+
+    <item
+        android:id="@+id/search_manage"
+        android:icon="@drawable/ic_menu_search"
+        android:title="@string/search"
+        app:showAsAction="ifRoom|withText" />
+
+    <item
+        android:id="@+id/statistic_manage"
+        android:icon="@drawable/ic_menu_statistic"
+        android:title="@string/item_statistic"
+        app:showAsAction="ifRoom|withText" />
+
+    <item
+        android:id="@+id/show_subtitle"
+        android:title="@string/show_subtitle"
+        app:showAsAction="ifRoom" />
+
+</menu>

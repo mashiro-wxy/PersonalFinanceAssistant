@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">理财小助手</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">邮箱</string>
+    <string name="prompt_password">密码</string>
+    <string name="action_sign_in">登录</string>
+    <string name="action_register_in">注册</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">无效的邮箱地址</string>
+    <string name="error_error_acpw">账号或密码错误</string>
+    <string name="error_invalid_password">密码太短</string>
+    <string name="error_incorrect_password">密码错误</string>
+    <string name="error_field_required">必填</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="manage_title_hint">加一个标题吧</string>
+    <string name="manage_title_label">项目名称</string>
+    <string name="manage_details_money">金额</string>
+    <string name="manage_money_hint">快写上你花了多少钱</string>
+    <string name="manage_details_label">支付方式</string>
+    <string name="manage_details_time">时间</string>
+    <string name="manage_cash_label">现金</string>
+    <string name="manage_card_label">银行卡</string>
+    <string name="manage_remark_label">备注</string>
+    <string name="btn_to_first">To First</string>
+    <string name="btn_to_last">To Last</string>
+    <string name="date_picker_title">记录日期</string>
+    <string name="new_manage">新记录</string>
+    <string name="show_subtitle">显示记录条数</string>
+    <string name="hide_subtitle">隐藏记录条数</string>
+    <string name="subtitle_format">%1$d 条记录</string>
+    <string name="delete_manage">删除记录</string>
+    <string name="null_manage_list_text">尚未存在理财记录</string>
+    <string name="add_manage">添加记录</string>
+    <string name="manage_report_text">发送理财报告</string>
+    <string name="manage_report">%1$s! 理财在 %2$s. %3$s 和 %4$s发生</string>
+    <string name="manage_report_cash">现金支付</string>
+    <string name="manage_report_card">信用卡支付</string>
+    <string name="manage_report_subject">PersonalFinanceAssistant理财报告</string>
+    <string name="send_report">发送理财报告通过: </string>
+    <string name="item_manage_title">Manage Title</string>
+    <string name="item_manage_date">Manage Date</string>
+    <string name="register_button">还没有注册?点我注册</string>
+    <string name="search">搜索</string>
+    <string name="edit_search">输入你想搜索的内容</string>
+    <string name="edit_year">输入年</string>
+    <string name="edit_month">输入月</string>
+    <string name="edit_day">输入日</string>
+    <string name="item_statistic">统计</string>
+</resources>
